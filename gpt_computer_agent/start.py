@@ -12,9 +12,9 @@ from pynput import keyboard
 
 def start(api=False):
     """
-    Starts the computer assistant application.
+    Starts the computer agent application.
 
-    This function starts the computer assistant application, which includes parsing command-line arguments
+    This function starts the computer agent application, which includes parsing command-line arguments
     to set the profile, initializing the graphical user interface, and starting the application event loop.
 
     Command-line Arguments:
